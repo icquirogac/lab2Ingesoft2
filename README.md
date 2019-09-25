@@ -46,5 +46,5 @@ You can navigate in our app here
 * **German Guerrero** - *System Engineering Student* - [gdguerrerog](https://github.com/gdguerrerog)
 * **Ivan Quiroga** - *System Engineering Student* - [icquirogac](https://github.com/icquirogac)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/icquirogac/lab2Ingesoft2/graphs/contributors) who participated in this project.
 
